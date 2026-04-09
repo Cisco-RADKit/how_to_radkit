@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="how_to_radkit__.png" alt="Cisco RADKit" /></br>
+  <img src="how_to_radkit__.gif" style="width:400" alt="Cisco RADKit" /></br>
 </p>
 
 # 💻 Cisco RADKit Developer Community
